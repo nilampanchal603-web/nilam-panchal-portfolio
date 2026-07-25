@@ -6,10 +6,7 @@ A modern, responsive, and professional portfolio website built to showcase my pr
 
 ## 🚀 Live Demo
 
-**Coming Soon...**
-
-> The live portfolio link will be added after deployment on Vercel.
-
+🌐 Live Website: https://nilam-panchal-portfolio.vercel.app
 ---
 
 ## 📌 About
