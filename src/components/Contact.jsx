@@ -1,4 +1,4 @@
- import {FaEnvelope,FaLinkedin,FaGithub,} from "react-icons/fa";
+import { FaEnvelope, FaLinkedin, FaGithub, } from "react-icons/fa";
 
 function Contact() {
   return (
@@ -56,10 +56,9 @@ function Contact() {
 
               {/* Email */}
               <a
-                href="nilampanchal603@gmail.com"
-                target="_blank"
-                rel="noreferrer"
-                className="bg-slate-700 p-3 sm:p-4 rounded-full hover:bg-sky-500 transition duration-300">
+                href="mailto:nilampanchal603@gmail.com"
+                className="bg-slate-700 p-3 sm:p-4 rounded-full hover:bg-sky-500 transition duration-300"
+              >
                 <FaEnvelope className="text-xl sm:text-2xl" />
               </a>
 
