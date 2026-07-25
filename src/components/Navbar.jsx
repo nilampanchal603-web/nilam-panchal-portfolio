@@ -34,7 +34,7 @@ const Navbar = () => {
                         ))}
                     </ul>
                     <a
-                        href="/resume.pdf"
+                         href="/Nilam_Panchal_s_CV.pdf"
                         download
                         className="bg-sky-500 hover:bg-sky-600 text-white px-6 py-3 rounded-lg">
                         Download CV

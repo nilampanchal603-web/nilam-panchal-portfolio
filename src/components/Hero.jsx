@@ -34,7 +34,7 @@ function Hero() {
 
           <div className="flex flex-wrap justify-center lg:justify-start gap-4 mt-10">
             <a
-              href="/resume.pdf"
+                href="/Nilam_Panchal_s_CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-sky-500 hover:bg-sky-600 text-white px-7 py-3 rounded-lg font-semibold transition duration-300 shadow-lg hover:shadow-sky-500/40"

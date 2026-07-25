@@ -56,7 +56,7 @@ function Contact() {
 
               {/* Email */}
               <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&to=nilampanchal603@gmail.com"
+                href="nilampanchal603@gmail.com"
                 target="_blank"
                 rel="noreferrer"
                 className="bg-slate-700 p-3 sm:p-4 rounded-full hover:bg-sky-500 transition duration-300">
