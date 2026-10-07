@@ -59,7 +59,7 @@ const Navbar = () => {
                                 </li>
                             ))}
                             <a
-                                href="/resume.pdf"
+                                href="/Nilam_Panchal_s_CV.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-sky-500 hover:bg-sky-600 text-white px-5 py-2 rounded-lg font-medium transition">
